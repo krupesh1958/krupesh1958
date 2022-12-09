@@ -9,11 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupeshgithub&layout=compact&theme=dark" />
 </a>
 
-# Technical Skills
-
 ![snake gif](https://github.com/Krupeshgithub/Krupeshgithub/blob/output/github-contribution-grid-snake.svg)
 
-
+# Technical Skills
 <table>
   <tr>
     <td align="center" width="96">
