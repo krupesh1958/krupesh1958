@@ -6,6 +6,12 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Krupeshgithub&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)
 
+# Contributions so far
+
+![snake gif](https://github.com/arjun-234/arjun-234/blob/output/github-contribution-grid-snake.svg)
+
+# Technical Skills
+
 ![snake gif](https://github.com/Krupeshgithub/Krupeshgithub/blob/output/github-contribution-grid-snake.svg)
 
 
