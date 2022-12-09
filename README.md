@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=100&section=header"/>
+</p>
+
+# 📈 Account stats
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=Krupeshgithub&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)
 
 ![snake gif](https://github.com/Krupeshgithub/Krupeshgithub/blob/output/github-contribution-grid-snake.svg)
@@ -81,3 +87,7 @@
     </td>
  </tr>
 </table>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
