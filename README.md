@@ -4,12 +4,12 @@
 
 # 📈 Account stats
 
-<a href="https://github.com/Krupeshgithub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krupeshgithub&show_icons=true&theme=light" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupeshgithub&layout=compact&theme=dark" />
+<a href="https://github.com/krupesh1958">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krupesh1958&show_icons=true&theme=light" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupesh1958&layout=compact&theme=dark" />
 </a>
 
-![snake gif](https://github.com/Krupeshgithub/Krupeshgithub/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Krupeshgithub/krupesh1958/blob/output/github-contribution-grid-snake.svg)
 
 # Technical Skills
 <table>
