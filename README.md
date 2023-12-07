@@ -84,4 +84,6 @@
  </tr>
 </table>
 
+# Stats #
 
+![Krupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=krupesh1958&show_icons=true&theme=radical)
